@@ -1,0 +1,42 @@
+{
+    "FILE" : "HUMAN RESOURCE",
+
+    "add_employee_email" : "testemail@example.com",
+    "add_existing_employee" : "mathews@upscalepics.com",
+    "add_invalid_email" : "test.com",
+
+    "delete_id" : "17",
+    "delete_invalid_id" : "999",
+
+    "get_emp_id" : 3,
+    "get_inv_id" : 9999,
+
+    "update_emp_id" : 18,
+    "update_inv_id" : 9999, 
+    "update_email" : "new.email@testing.com",
+    "update_inv_email" : "sample@upscalepics.com",
+
+
+     "FILE2" : "CUSTOMER CARE",
+
+     "stripe_valid_cus_email" : "debangshupaul@outlook.com",
+     "stripe_valid_cus_id" : "cus_PdMOtdq9cUvJZs",
+     "stripe_invalid_cus_email" : "notfound@example.com",
+     "stripe_invalid_cus_id" : "cus_abcdefghij",
+
+     "stripe_listinv_cusid" : "cus_Pk39lnZMJMx8wb",
+
+     "stripe_valid_prodid" : "prod_PmhVBpnCSltmFE",
+     "stripe_invalid_prodid" : "prod_PmhVBabcDeFltmFE",
+
+     "invoice_hosted_url" : "https://invoice.example.com",
+     "invoice_pdf_url" : "https://invoice.example.com/invoice.pdf",
+     "stripe_invoice_valid_email" : "srajan@upscalepics.com",
+     "stripe_NO_invoice_valid_email" : "mathews@upscalepics.com"
+
+
+    
+
+
+
+}
